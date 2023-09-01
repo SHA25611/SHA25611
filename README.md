@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SHA25611
 - 👀 I’m interested in IT software solutions development using AI.
-- 🌱 I’m currently learning automation in ansible and python.
-- 💞️ I’m looking to collaborate on datacenter automation projects.
+- 🌱 I’m currently working on automation using multiple devops tools.
+- 💞️ I’m looking to collaborate on cloud Devops projects.
 - 📫 How to reach me - shammi.anand47@gmail.com
 
 <!---
